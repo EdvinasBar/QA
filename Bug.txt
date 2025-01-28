@@ -1,0 +1,11 @@
+1 - disclosure triangle
+    When pressed instead of expanding or collapsing the list it marks all the list as Completed. In a case where a task is Completed it makes the task Active again.
+
+2- The task counter is off by one.
+    Its starts to count the tasks from -1 instead of 0. So the total task count is always off by 1.
+
+3- Clear??
+    Clear only clears the task that are marked as Completed.
+
+4- The text "Double-Click to edit a toodo""
+    The text is miss spelled it should go " Double-click to edit a todo."
