@@ -5,6 +5,5 @@
     Its starts to count the tasks from -1 instead of 0. So the total task count is always off by 1.
 
 
-
-4- The text "Double-Click to edit a toodo""
+3- The text "Double-Click to edit a toodo""
     The text is miss spelled it should go " Double-click to edit a todo."
