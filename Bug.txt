@@ -1,11 +1,14 @@
-1-The task counter is off by one.
-It starts counting the tasks from -1 instead of 0, so the total task count is always incorrect by 1.
+1- The task counter is off by one.
+It starts counting tasks from -1 instead of 0, so the total task count is always incorrect by 1.
 
-2-The text "Double-Click to edit a toodo" is misspelled.
+2- The text "Double-Click to edit a toodo" is misspelled.
 It should be "Double-click to edit a todo."
 
-3-Hard to read.
+3- Hard to read.
 The text color makes it difficult to read.
 
-4-Edit issue.
-When you double-click to edit, the task becomes active.
+4- Clear button.
+The clear button only clears tasks that are active.
+
+5- Dropdown arrow.
+The dropdown arrow marks all tasks as complete, which is not expected. A standard dropdown arrow is typically used to expand or collapse content.   
