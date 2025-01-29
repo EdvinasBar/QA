@@ -1,11 +1,11 @@
-1- The task counter is off by one.
-    Its starts to count the tasks from -1 instead of 0. So the total task count is always off by 1.
+1-The task counter is off by one.
+It starts counting the tasks from -1 instead of 0, so the total task count is always incorrect by 1.
 
+2-The text "Double-Click to edit a toodo" is misspelled.
+It should be "Double-click to edit a todo."
 
-2- The text "Double-Click to edit a toodo""
-    The text is miss spelled it should go " Double-click to edit a todo."
+3-Hard to read.
+The text color makes it difficult to read.
 
-
-3-The complete all arrow.
-
-    The arrow takes double click to change color.
+4-Edit issue.
+When you double-click to edit, the task becomes active.
